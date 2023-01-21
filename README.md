@@ -1,2 +1,2 @@
 # IASBackend
-<h1>This is the first exercise of Java 🙌</h1>
+<h1>This is the first miniproject with IAS Software 🙌</h1>
